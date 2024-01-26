@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "screenshot-to-testcase"
+version = "1.0.0"
+description = "Generate K6 test cases from screenshots"
+authors = ["Sumit Sahoo"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+python-dotenv = "^1.0.1"
+gradio = "^4.16.0"
+rich = "^13.7.0"
+setuptools = "^69.0.3"
+openai = "^1.10.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
