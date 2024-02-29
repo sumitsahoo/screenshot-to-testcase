@@ -1,5 +1,5 @@
 # ℹ️ Screenshot to K6 Test Case
-Generate K6 Test Case using a webpage screenshot and test case scenario.<br>
+Generate K6 Test Case using a webpage screenshot and test case scenario as input.<br>
 OpenAI Vision Documentation: https://platform.openai.com/docs/guides/vision
 
 ## 📖 Medium Article
