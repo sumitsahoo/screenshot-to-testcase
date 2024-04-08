@@ -30,8 +30,9 @@ You need `Python 3.12.2` installed in your system. If you are using `pyenv` then
 
 
 To update dependencies use: `poetry update`<br>
-If you want to update dependencies in `pyproject.toml`, then you need to install plugin `poetry-plugin-up`. Use command below:
-```
+If you want to update dependencies in `pyproject.toml`, then you need to install plugin `poetry-plugin-up`. Use the command below:
+
+```bash
 poetry self add poetry-plugin-up
 ```
 Once installed, use command `poetry up` to install updates and edit `pyproject.toml` automatically.<br>
